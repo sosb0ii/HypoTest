@@ -16,3 +16,4 @@ The 3 files initially used have been reduced to one file, [Hypotest_1file.8xp]. 
 * Showing test statistic formulae
 * Asking for H<sub>a</sub> instead of how many tails
 * Visualising distributions with `ShadeNorm` and `Shade_t`
+* Adding Hypothesis tests using Χ<sup>2</sup>
